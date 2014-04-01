@@ -1,0 +1,3 @@
+def func(num):
+    for i in len(num):
+        print i
